@@ -5,7 +5,7 @@
 
 ## SW
 --SW
-|-lib                              //some used lib
-|-src                              //the main program
-|-test                             //test code
-|-platformio.ini                   //config info
+|--lib                              //some used lib 
+|--src                              //the main program 
+|--test                             //test code 
+|--platformio.ini                   //config info 
